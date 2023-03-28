@@ -1,12 +1,10 @@
 {
-  "homepage": "https://Javadh0sseini.github.io/Note/",
-  "name": "component-practice",
+  "homepage": "https://javadh0sseini.github.io/Note",
+  "name": "note",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
